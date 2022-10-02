@@ -6,3 +6,6 @@
 
 ## Skills 
 Excel | SQL Server | MySQL | Power BI 
+
+## Examples of Projects Short Version
+<img src="https://github.com/Ernest-Ap/Ernest-Ap/blob/main/BikesDashboard.png" width="256">
