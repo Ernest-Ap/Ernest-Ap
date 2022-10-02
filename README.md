@@ -7,5 +7,8 @@
 ## Skills 
 Excel | SQL Server | MySQL | Power BI 
 
-## Examples of Projects Short Version
-<img src="https://github.com/Ernest-Ap/Ernest-Ap/blob/main/BikesDashboard.png" width="256">
+## Examples of Projects
+<p float="left">
+<img src="https://github.com/Ernest-Ap/Ernest-Ap/blob/main/BikesDashboard.png" width="306">
+&nbsp
+<img src="https://github.com/Ernest-Ap/Ernest-Ap/blob/main/DataProSurvey.png" width="370">
