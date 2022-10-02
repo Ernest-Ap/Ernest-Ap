@@ -1,4 +1,4 @@
-
+![Data](https://github.com/Ernest-Ap/Ernest-Ap/blob/main/EA.png)
 
 ### Hi there, I'm Ernest Appiah
 
