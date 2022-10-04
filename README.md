@@ -11,4 +11,4 @@ Excel | SQL Server | Power BI
 <p float="left">
 <img src="https://github.com/Ernest-Ap/Ernest-Ap/blob/main/BikesDashboard.png" width="306">
 &nbsp
-<img src="https://github.com/Ernest-Ap/Ernest-Ap/blob/main/DataProSurvey.png" width="370">
+<img src="https://github.com/Ernest-Ap/DataProSurvey/blob/main/pd_img/FinalDash.png" width="370">
