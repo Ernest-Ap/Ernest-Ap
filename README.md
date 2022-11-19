@@ -5,7 +5,7 @@
 #### I'm  Data Analyst who enjoys learning and working with data. Some of the technologies I enjoy operating with are Excel , SQL and Power BI. 
 
 ## Skills 
-Excel | MS SQL | Power BI 
+Excel | MS SQL | Tableau | Power BI 
 
 ## Examples of Projects
 <p float="left">
