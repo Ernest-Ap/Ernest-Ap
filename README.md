@@ -9,7 +9,7 @@ Excel | SQL | Tableau | Power BI
 
 ## Examples of Projects
 <p float="left">
-<img src="https://github.com/Ernest-Ap/MegastoreSales/blob/main/msd_imgs/1Dashboard.png" width="370">
+<img src="https://github.com/Ernest-Ap/Bike-Sales-Dashboard/blob/main/bdh_img/bikesd.png" width="415">
 &nbsp
 <img src="https://github.com/Ernest-Ap/DataProSurvey/blob/main/pd_img/1fdash.png" width="390">
   
