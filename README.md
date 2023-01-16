@@ -11,4 +11,6 @@ Excel | SQL | Tableau | Power BI
 <p float="left">
 <img src="https://github.com/Ernest-Ap/MegastoreSales/blob/main/msd_imgs/1Dashboard.png" width="370">
 &nbsp
-<img src="https://github.com/Ernest-Ap/DataProSurvey/blob/main/pd_img/FinalDash.png" width="390">
+<img src="https://github.com/Ernest-Ap/DataProSurvey/blob/main/pd_img/1fdash.png" width="390">
+  
+ 
