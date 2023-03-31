@@ -12,6 +12,6 @@ Excel | SQL | Tableau | Power BI | Python
 <p float="left">
 <img src="https://github.com/Ernest-Ap/Bike-Sales-Dashboard/blob/main/bdh_img/bikesd.png" width="435" height="270">
 &nbsp  
-<img src="https://github.com/Ernest-Ap/Sales-Dashboard-Monthly/blob/main/img/sdm1.png" width="390"> 
+<img src="https://github.com/Ernest-Ap/Sales-Dashboard-Monthly/blob/main/img/sm1.png" width="390"> 
   
  
