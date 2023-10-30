@@ -10,8 +10,10 @@ Excel | SQL | Tableau | Power BI | Python
 
 ## Examples of Projects
 <p float="left">
-<img src="https://github.com/Ernest-Ap/Bike-Sales-Dashboard/blob/main/bdh_img/bikesd.png" width="445" height="270">
+<img src="https://github.com/Ernest-Ap/Road_Accidents/blob/main/img/1ra.png" width="470" height="270">
 &nbsp  
 <img src="https://github.com/Ernest-Ap/Sales-Dashboard-Monthly/blob/main/img/sm1.png" width="390"> 
+
+<img src="https://github.com/Ernest-Ap/Bike-Sales-Dashboard/blob/main/bdh_img/bikesd.png" width="445" height="270">
   
  
